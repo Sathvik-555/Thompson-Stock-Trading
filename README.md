@@ -119,8 +119,4 @@ Adjust simulation parameters in the Streamlit dashboard:
 
 
 
-This project is open source and available under the MIT License.
 
-## ⚠️ Disclaimer
-
-This application is for educational purposes only. Do not use it for actual trading without proper research and risk management. Past performance does not guarantee future results.
