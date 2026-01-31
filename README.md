@@ -117,11 +117,7 @@ Adjust simulation parameters in the Streamlit dashboard:
 - streamlit
 - altair
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests.
-
-## 📝 License
 
 This project is open source and available under the MIT License.
 
